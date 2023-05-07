@@ -1,4 +1,4 @@
-# Ohmův zákon
+# Kalkulačka Ohmova zákona
 
 ## cíl
 Hlavní důvod proč jsem se rozhodl pro tento projekt je ten, že jsem chtěl vytvořit něco užitečného, něco co se hodí i mně. Zároveň vím, že na samotné programování nejsem moc talentovaný a nechci začít něco co nejsem schopen dokončit. 
