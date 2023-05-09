@@ -221,7 +221,7 @@ namespace A
                 ColorWrite(ConsoleColor.White, ", ", false);
                 ColorWrite(ConsoleColor.White, "\u001b[92mProud (I)\u001b[0m", false);
                 ColorWrite(ConsoleColor.White, ", ", false);
-                ColorWrite(ConsoleColor.White, "\u001b[34mOdpor (R)\u001b[0m", false);
+                ColorWrite(ConsoleColor.White, "\u001b[34mOdpor (R) \u001b[0m", false);
                 ColorWrite(ConsoleColor.White, "│", true);
                 ColorWrite(ConsoleColor.White, " └├──", false);
                 ColorWrite(ConsoleColor.DarkGray, "────────────────────────────────────────────────────────────────────────────", false);
